@@ -1,2 +1,0 @@
-name: khoak3
-pass: Khoa123
